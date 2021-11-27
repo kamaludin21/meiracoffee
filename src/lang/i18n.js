@@ -60,7 +60,7 @@ const messages = {
     contactPage: {
       mainTitleSub: "Contact us if your have any inquiry or anything about business",
       contactInformation: "Contact Information",
-      regency: "Province Riau, Indonesia",
+      regency: "Riau Province, Indonesia",
       phone: "+628 0000 0000",
       mail: "alamat@email.com",
     },

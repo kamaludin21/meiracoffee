@@ -22,7 +22,7 @@
         </div>
         <div class="flex items-center pt-4 space-x-3">
           <phone-icon />
-          <p class="font-semibold">+828 0000 0000</p>
+          <p class="font-semibold">+62 821 7054 8877</p>
         </div>
         <div class="flex items-center pt-4 space-x-3">
           <mail-icon />
