@@ -1,24 +1,10 @@
-# miracoffee
+# Meira Coffee
 
-## Project setup
-```
-npm install
-```
+Landing page for meira coffee
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
+[Demo](https://eksportir.vercel.app/) at VERCEL
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Screenshot
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![App Screenshot](https://ik.imagekit.io/n0t5masg5jg/work/screenshot_meiracoffee_-24vCrnMFGF.png?updatedAt=1638006148250)
