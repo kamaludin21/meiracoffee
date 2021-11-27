@@ -3,7 +3,7 @@
 Landing page for meira coffee
 
 ## Demo
-[Demo](https://eksportir.vercel.app/) at VERCEL
+[Demo](https://meiracoffee.vercel.app/) at VERCEL
 
 ## Screenshot
 
