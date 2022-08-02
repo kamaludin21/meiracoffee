@@ -29,7 +29,7 @@
     </div>
     <div class="bg-green-700 py-2">
       <p class="text-center text-lg font-medium text-green-50">
-        S. Eksportir &copy; 2021 &bull; All Right Reserved | Dev. by <a href="https://github.com/kamaludin21" class="hover:underline" target="_blank">kamaludin21</a>
+        MEIRA Coffee &copy; 2021 &bull; All Right Reserved | Dev. by <a href="https://github.com/kamaludin21" class="hover:underline" target="_blank">kamaludin21</a>
       </p>
     </div>
   </footer>

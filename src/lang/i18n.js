@@ -9,9 +9,9 @@ const messages = {
     city: "Kab. Kepulauan Meranti, Riau, Indonesia",
     productsNav: "Explore Products",
     heroSection: {
-      title: "Trusted Quality Liberica Exporter",
+      title: "Trusted Quality Areca Nut Exporter",
       subtitle:
-        "We are exporters of products in the Meranti Islands. One of them is Liberica coffee beans, typical of the peat land of the Meranti Islands",
+        "We are exporters of products in the Meranti Islands. One of them is high quality areca nut, typical of the peat land of the Meranti Islands",
       getStartedButton: "Get Started",
       ExploreButton: "Explore",
     },
@@ -38,14 +38,14 @@ const messages = {
       smallTitle: "Let's check",
       bigTitle: "Our Product",
       productSmallTitle: "Our main product are",
-      productTitle: "Liberica Coffee Beans",
+      productTitle: "Areca Nut",
       description:
-        "Liberica coffee is a type of coffee originating from Liberia and West Africa. This coffee grows well in the Meranti Islands area with a geographical peat soil. That's why Liberica coffee beans have their own distinctive taste and aroma and are different from other types of coffee",
+        "Areca nut is a plant belonging to palms. This tree is one of the plants with high economic value and potential. Areca nut is mainly grown for its seeds. Areca nut has many benefits, so that currently areca nut has become a trading commodity.",
       variantTitle: "We export one of kind",
-      variant: "Green Beans Coffe",
+      variant: "Areca Nuts",
       variantDescription:
-        "The results of this roasting produce shiny black beans with an oily surface and a very bitter taste when tasted. The darker the roast color, the less acidity you will find in your coffee.",
-      getProductTitle: "Get our liberica green beans now",
+        "Various types of varieties that exist, namely, areca betara, areca red, areca bulawan, areca palm and areca nut irian.",
+      getProductTitle: "Get our areca nuts now",
     },
     getTouchSection: {
       mainTitle: "Get in Touch",
@@ -88,9 +88,9 @@ const messages = {
     city: "Kab. Kepulauan Meranti, Riau, Indonesia",
     productsNav: "Jelajahi Produk",
     heroSection: {
-      title: "Eksportir Liberika Kualitas Terpercaya",
+      title: "Eksportir Pinang Kualitas Terpercaya",
       subtitle:
-        "Kami adalah eksportir produk-produk di kepulauan meranti. Salah satunya biji kopi liberika khas tanah gambut kepulauan meranti",
+        "Kami adalah eksportir produk di Kepulauan Meranti. Salah satunya adalah pinang kualitas tinggi khas lahan gambut Kepulauan Meranti",
       getStartedButton: "Ayo Mulai",
       ExploreButton: "Eksplor",
     },
@@ -117,13 +117,13 @@ const messages = {
       smallTitle: "Ayo periksa",
       bigTitle: "Produk Kami",
       productSmallTitle: "Produk utama kami adalah",
-      productTitle: "Biji Kopi Liberika",
+      productTitle: "Biji Buah Pinang",
       description:
-        "Kopi Liberika adalah jenis kopi yang berasal dari Liberia, Dan Afrika Barat. Kopi ini tumbuh sumbur di daerah kepulauan meranti dengan geografis tanah gambut. Karena itulah biji kopi liberika memiliki rasa dan aroma khas tersendiri dan berbeda dari jenis kopi lainnya",
-      variantTitle: "Kami mengekspor salah satu jenis",
-      variant: "Biji Hijau Kopi Liberika",
+        "Buah pinang adalah tumbuhan yang tergolong palem-paleman. Pohon ini merupakan salah satu tanaman dengan nilai ekonomi dan potensi yang cukup tinggi. Pinang terutama ditanam untuk dimanfaatkan bijinya. Pinang sangat banyak manfaatnya, sehingga saat ini biji buah pinang sudah menjadi komoditas perdagangan.",
+			variantTitle: "Kami mengekspor berbagai jenis",
+      variant: "Biji buah pinang",
       variantDescription:
-        "Hasil roasting ini menghasilkan biji berwarna hitam mengkilap dengan permukaan biji yang berminyak dan rasa sangat pahit ketika dikecap. Semakin gelap warna roasting, maka semakin sedikit tingkat keasaman yang kamu temukan pada minuman kopimu.",
+        "Berbagai jenis varietas yang ada yaitu, pinang betara, pinang merah, pinang bulawan, pinang kelapa dan pinang irian",
       getProductTitle: "Dapatkan biji kopi liberika kami sekarang",
     },
     getTouchSection: {

@@ -4,7 +4,7 @@
     <div
       class="bg-local bg-blend-darken py-28 text-center text-white"
       style="
-        background-image: url(https://ik.imagekit.io/n0t5masg5jg/bg_coffee_v1uve0BSv.jfif?updatedAt=1637636563607);
+        background-image: url(https://ik.imagekit.io/n0t5masg5jg/areca-catechu_hM5uud49s.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659363709301);
       "
       data-sal="fade"
       data-sal-delay="300"

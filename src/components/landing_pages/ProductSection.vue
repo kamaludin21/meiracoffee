@@ -15,7 +15,7 @@
       <div class="hidden md:flex relative w-2/3 justify-center">
         <div class="absolute left-0 z-10">
           <img
-            src="./../../assets/buah_kopi_liberika.webp"
+            src="./../../assets/betel_nut/betel_2.jpeg"
             class="w-2/3 xl:w-1/2 -mt-6 rounded-lg shadow-lg"
             alt="biji kopi liberika meranti"
             data-sal="slide-right" data-sal-delay="300"
@@ -23,7 +23,7 @@
         </div>
         <div class="absolute flex w-full justify-end z-10">
           <img
-            src="./../../assets/biji_kopi_meranti.webp"
+            src="./../../assets/betel_nut/betel_3.jpeg"
             class="w-2/3 xl:w-1/2 h-58 object-cover mt-60 mr-16 rounded-lg shadow-lg"
             alt="biji kopi liberika meranti"
             data-sal="slide-left" data-sal-delay="300"
@@ -44,9 +44,9 @@
       </div>
       <div class="pt-10 pb-12">
         <img
-          src="./../../assets/biji_kopi_meranti.webp"
+          src="./../../assets/betel_nut/betel_4.jpeg"
           class="block md:hidden w-full object-cover rounded-lg shadow-lg"
-          alt="biji kopi liberika meranti"
+          alt="biji kopi liberika meranti 2"
         />
       </div>
     </div>
@@ -62,8 +62,8 @@
       </div>
       <div class="block md:hidden">
         <img
-          src="./../../assets/green_bean_meranti.webp"
-          class="rounded-lg shadow-md w-full"
+          src="./../../assets/betel_nut/betel_3.jpeg"
+          class="rounded-lg shadow-md w-full object-cover"
           alt="biji kopi liberika meranti"
           data-sal="slide-up" data-sal-delay="300"
         />
@@ -74,8 +74,8 @@
           data-sal="slide-right" data-sal-delay="300"
         ></div>
         <img
-          src="./../../assets/green_bean_meranti.webp"
-          class="absolute rounded-lg shadow-md w-full h-64 top-6 right-6"
+          src="./../../assets/betel_nut/betel_4.jpeg"
+          class="absolute rounded-lg object-cover shadow-md w-full h-64 top-6 right-6"
           alt="biji kopi liberika meranti"
           data-sal="slide-left" data-sal-delay="300"
         />

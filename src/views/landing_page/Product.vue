@@ -2,9 +2,9 @@
   <!-- Hero page -->
   <section class="relative mt-20">
     <div
-      class="bg-local bg-blend-darken py-28 text-center text-white"
+      class="bg-cover bg-no-repeat bg-blend-darken py-28 text-center text-white"
       style="
-        background-image: url(https://ik.imagekit.io/n0t5masg5jg/bg_coffee_v1uve0BSv.jfif?updatedAt=1637636563607);
+        background-image: url(https://ik.imagekit.io/n0t5masg5jg/areca-catechu_hM5uud49s.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1659363709301);
       "
       data-sal="fade"
       data-sal-delay="300"
@@ -38,51 +38,16 @@
         data-sal-easing="ease-out-bounce"
       >
         <img
-          class="rounded-lg rounded-b-none"
-          src="./../../assets/green_bean_meranti.webp"
+          class="rounded-lg object-cover rounded-b-none"
+          src="./../../assets/betel_nut/betel_4.jpeg"
           alt="product image"
           loading="lazy"
         />
         <div class="p-4 space-y-2">
           <h1 class="text-2xl font-bold text-green-900">{{ $t("productSection.productTitle") }}</h1>
           <p class="font-normal leading-5">{{ $t("productSection.description") }}</p>
-          <!-- <button class="product-button">Selengkapnya</button> -->
         </div>
       </div>
-
-      <!-- <div class="product-card-wrapper">
-        <img
-          class="rounded-lg rounded-b-none"
-          src="https://source.unsplash.com/6D71rfz7j1E/1920x1280"
-          alt="product image"
-          loading="lazy"
-        />
-        <div class="p-4 space-y-2">
-          <h1 class="text-2xl font-bold text-green-900">Stem Charcoal</h1>
-          <p class="font-normal leading-5">
-            Tailwind CSS v2.1 introduces a new just-in-time compiler for
-            Tailwind CSS that generates your styles on-demand...
-          </p>
-          <button class="product-button">Selengkapnya</button>
-        </div>
-      </div>
-
-      <div class="product-card-wrapper">
-        <img
-          class="rounded-lg rounded-b-none"
-          src="https://source.unsplash.com/8I0SAYz0PIs/1920x1280"
-          alt="product image"
-          loading="lazy"
-        />
-        <div class="px-4 py-5 space-y-2">
-          <h1 class="text-2xl font-bold text-green-900">Karet</h1>
-          <p class="font-normal leading-5">
-            Tailwind CSS v2.1 introduces a new just-in-time compiler for
-            Tailwind CSS that generates your styles on-demand...
-          </p>
-          <button class="product-button">Selengkapnya</button>
-        </div>
-      </div> -->
     </div>
   </section>
 </template>

@@ -58,7 +58,7 @@
         data-sal="slide-up" data-sal-delay="300"
       >
         <img
-          src="./../../assets/biji_kopi_liberika.webp"
+          src="./../../assets/betel_nut/betel_nut_1.webp"
           class="object-cover w-full rounded-md"
           alt="biji kopi liberika meranti"
         />
